@@ -1,6 +1,6 @@
 # First Assignment
 
-##Description
+## Description
 
 First assignment for coding boot camp. Using HTML, make sure that the codebase follows accessibility standards so that the site is optimized for search engines.
 
